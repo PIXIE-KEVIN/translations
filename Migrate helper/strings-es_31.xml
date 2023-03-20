@@ -21,7 +21,7 @@
     <string name="uninstall_by_twrp">Desinstalar por twrp.</string>
     <!--MainActivityKotlin.kt-->
     <string name="storage_perm_needed">Se necesita permiso de almacenamiento</string>
-    <string name="grant">Conceder</string>
+    <string name="grant">Permitir</string>
     <string name="contact_desc">Nuestro grupo de Telegram tiene muchos miembros, obtendrá ayuda más rápida sobre el grupo. En caso de que su problema no se resuelva, póngase en contacto con el desarrollador.</string>
     <string name="contact_developer">Contactar desarrollador</string>
     <string name="contact_group">Mensaje en grupo</string>
